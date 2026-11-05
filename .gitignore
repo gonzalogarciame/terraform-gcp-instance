@@ -8,3 +8,6 @@ terraform.tfstate
 terraform.tfstate.backup
 .terraform.lock.hcl
 
+
+# GCP service account key
+lab-6-*.json
